@@ -1,0 +1,5 @@
+.idea
+target
+example.iml
+*.log
+*.out
